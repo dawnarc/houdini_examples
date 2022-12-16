@@ -8,8 +8,8 @@ Origin:
 
 ### fracture_rbd_sleeping.hip
 
-![screenshoots01](./fracture_rbd_sleeping.gif)
+![screenshoots01](./screenshots/fracture_rbd_sleeping.gif)
 
 ### fracture_rbd_sleeping.hip
 
-![screenshoots01](./fracture_collision_group.gif)
+![screenshoots01](./screenshots/fracture_collision_group.gif)
