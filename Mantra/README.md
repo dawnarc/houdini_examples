@@ -8,7 +8,7 @@ Camera look at target alone path.
 ![screenshoots01](./screenshots/camera_follow_path_lookat.gif)
 
 [Houdini]Mantra (Camera) Notes  
-http://dawnarc.com/2022/10/houdinimantra-camera-notes/
+https://dawnarc.com/2022/10/houdinimantra-camera-notes/
 
 # References
 
