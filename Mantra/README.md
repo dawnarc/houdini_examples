@@ -4,6 +4,7 @@ Houdini version: 19.5
 
 ## camera_follow_path_lookat.hip
 
+Camera look at target alone path.  
 ![screenshoots01](./screenshots/camera_follow_path_lookat.gif)
 
 [Houdini]Mantra (Camera) Notes  

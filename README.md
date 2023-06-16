@@ -30,5 +30,5 @@ Delete fracture pieces by bounding box.
 
 ## camera_follow_path_lookat.hip
 
-Camera look at target alone path.
+Camera look at target alone path.  
 ![screenshoots01](./Mantra/screenshots/camera_follow_path_lookat.gif)
