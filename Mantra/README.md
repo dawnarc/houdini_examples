@@ -1,6 +1,10 @@
 Houdini version: 19.5
 
-# Documents
+# Introduction
+
+## camera_follow_path_lookat.hip
+
+![screenshoots01](./screenshots/camera_follow_path_lookat.gif)
 
 [Houdini]Mantra (Camera) Notes  
 http://dawnarc.com/2022/10/houdinimantra-camera-notes/
