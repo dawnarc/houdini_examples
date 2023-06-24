@@ -20,5 +20,5 @@ Use `RBD config` to create `Collision Group` to ignore specified primitives.
 
 Destruction by collision hitting and output VAT(Vertex Animation Textures).  
 ![screenshoots01](./screenshots/vat_destruct_by_ball.gif)
-> **Info** Use `RBD Config` and `Point Velocity` to push ball from bottom to top and cross the ground,
+> **Info** Use `RBD Config` and `Point Velocity` to push ball from bottom to top and cross the ground,  
 > then delete the ball at specified frame.
