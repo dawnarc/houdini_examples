@@ -2,22 +2,22 @@ Various houdini example hip files for personal sutdy.
 
 ***
 
-# BulletPhysics
+# Rigid Body Simulation
 
 ## fracture_rbd_sleeping.hip
 
 Use `RBD Config` and `Point Velocity` to create a separated force field.  
-![screenshoots01](./BulletPhysics/screenshots/fracture_rbd_sleeping.gif)
+![screenshoots01](./RigidBodySim/screenshots/fracture_rbd_sleeping.gif)
 
 ## fracture_collision_group.hip
 
 Use `RBD config` to create `Collision Group` to ignore specified primitives.  
-![screenshoots01](./BulletPhysics/screenshots/fracture_collision_group.gif)
+![screenshoots01](./RigidBodySim/screenshots/fracture_collision_group.gif)
 
 ## vat_destruct_by_ball.hip
 
 Destruction by collision hitting and output VAT(Vertex Animation Textures).  
-![screenshoots01](./BulletPhysics/screenshots/vat_destruct_by_ball.gif)
+![screenshoots01](./RigidBodySim/screenshots/vat_destruct_by_ball.gif)
 
 # Fracture
 
