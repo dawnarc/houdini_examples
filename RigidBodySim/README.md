@@ -1,5 +1,5 @@
 
-# Introduction
+# Rigid Body Simulation
 
 ## Assorted_Bullet_v001.hip
 
