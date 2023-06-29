@@ -26,7 +26,7 @@ Camera look at target alone path.
 ## noise_blast_sphere.hip
 
 Blast from a sphere and output a multitude of spikes.  
-![screenshoots01](./screenshots/noise_blast_sphere.gif)
+![screenshoots01](./Noise/screenshots/noise_blast_sphere.gif)
 
 # RigidBodySim
 
